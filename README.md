@@ -1,2 +1,3 @@
-# project-proposals
-Repo containing project proposals for Space Opera
+# Space Opera Project Proposals
+
+Project proposals for Space Opera go here!
