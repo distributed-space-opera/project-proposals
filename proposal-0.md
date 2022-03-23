@@ -19,3 +19,9 @@ Some key areas that this project will focus on:
 - Node validation
 - Network management
 - A lot of other points can be added here depending on what different teams are interested in as the above only covers the basic things required to make this network operational
+
+## Architecture Diagram
+
+![](./diagrams/space-opera-design.png)
+
+- `.drawio` file for the diagram above is available at [space-opera-design.drawio](./diagrams/space-opera-design.drawio)
