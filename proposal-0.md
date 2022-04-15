@@ -22,6 +22,29 @@ Some key areas that this project will focus on:
 
 ## Architecture Diagram
 
-![](./diagrams/space-opera-design.png)
+![Architecture Diagram](./diagrams/space-opera-architecture.png)
 
 - `.drawio` file for the diagram above is available at [space-opera-design.drawio](./diagrams/space-opera-design.drawio)
+
+## Flow Diagrams
+
+- Adding a new node to the network
+
+![Add node flow](./diagrams/space-opera-add-node-flow.png)
+
+- Uploading and downloading data from the network
+
+![Upload and download data flow](./diagrams/space-opera-upload-download-data-flow.png)
+
+- Moniroting the network
+
+![Monitoring flow](./diagrams/space-opera-monitoring-flow.png)
+
+## Assignment of Components
+
+- Gateway : ...
+- Node : ...
+- Master Node : ...
+- Client : ...
+- Sentinel (Monitoring System) : ...
+- CLI : ...
