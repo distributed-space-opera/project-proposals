@@ -98,7 +98,7 @@ Some key areas that this project will focus on:
   - Rohit, Rushikesh, Rahil, Yi, Vineet
   - Tzu-Chuan Lin, Yu-Che Lin, Mu-Te Shen, Jinfan Zhang
 - Master Node
-  - Mayank Garg, Mayank Verma, Pratyush Sharma
+  - Mayank Garg, Mayank Verma, Pratyush Sharma, Aravind Thonupunuri
   - Anupriya, Arpitha, Rounak, Sandhya
 - Sentinel (Monitoring System)
   - Shradha, Brinda, Jui, Saurabh
