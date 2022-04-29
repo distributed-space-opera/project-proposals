@@ -95,11 +95,11 @@ Some key areas that this project will focus on:
 
 - Node
   - Tuba Ahmed, Abul Hasan Mohammed, Abhishek, Roopesh (Java)
-  - Rohit, Rushikesh, Rahil, Yi, Vineet
-  - Tzu-Chuan Lin, Yu-Che Lin, Mu-Te Shen, Jinfan Zhang
+  - Rohit, Rushikesh, Rahil, Yi, Vineet (JavaScript)
+  - Tzu-Chuan Lin, Yu-Che Lin, Mu-Te Shen, Jinfan Zhang (Python)
 - Master Node
   - Mayank Garg, Mayank Verma, Pratyush Sharma, Aravind Thonupunuri
-  - Anupriya, Arpitha, Rounak, Sandhya
+  - Anupriya, Arpitha, Rounak, Sandhya (Python)
 - Sentinel (Monitoring System)
   - Shradha, Brinda, Jui, Saurabh
   - AJ, Aniket, Aomkar, Sandesh, Jayanth
