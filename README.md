@@ -89,7 +89,15 @@ Some key areas that this project will focus on:
 
 #### Database
 - Database stores information about nodes on the network
-- Database could be a simple instance of Redis
+- Database can be a simple instance of Redis
+
+##### Scehma
+- The following scheme can be used by all teams interfacing with the Redis DB:
+	- `network:nodes` - list containing IP addresses (string) of nodes on network
+	- `network:data:node:<node-IP>` - list containing files (string) stored in node at `node-IP`
+	- `network:data:file:<file-name>` - list containing nodes (string) that store file with `file-name`
+- `network:nodes`, `network:data:node:<node-IP>`, and `network:data:file:<file-name>` are the keys in the DB
+- Other keys can be added as required
 
 ### Assignment of Components
 
