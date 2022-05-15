@@ -94,9 +94,10 @@ Some key areas that this project will focus on:
 ##### Scehma
 - The following scheme can be used by all teams interfacing with the Redis DB:
 	- `network:nodes` - list containing IP addresses (string) of nodes on network
+  - `network:data` - list of files stored on the network
 	- `network:data:node:<node-IP>` - list containing files (string) stored in node at `node-IP`
 	- `network:data:file:<file-name>` - list containing nodes (string) that store file with `file-name`
-- `network:nodes`, `network:data:node:<node-IP>`, and `network:data:file:<file-name>` are the keys in the DB
+- `network:nodes`, `network:data`, `network:data:node:<node-IP>`, and `network:data:file:<file-name>` are the keys in the DB
 - Other keys can be added as required
 
 ### Assignment of Components
