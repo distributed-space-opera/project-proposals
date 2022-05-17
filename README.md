@@ -103,7 +103,7 @@ Some key areas that this project will focus on:
 ### Assignment of Components
 
 - Node
-  - Tuba Ahmed, Abul Hasan Mohammed, Abhishek Ganesan, Rooppesh Sarankapani, Harsha (Java)
+  - Tuba Ahmed, Abul Hasan Mohammed, Abhishek Ganesan, Rooppesh Sarankapani, Harshavardhan Padidala (Java)
   - Rohit, Rushikesh, Rahil, Yi, Vineet (JavaScript)
   - Tzu-Chuan Lin, Yu-Che Lin, Mu-Te Shen, Jinfan Zhang (Python)
 - Master Node
